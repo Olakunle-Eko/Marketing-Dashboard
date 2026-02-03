@@ -3,13 +3,13 @@ This is an interactive dashboard created using power bi to monitor campaign perf
 
 # Questions answered
 
-What is the Total Ad Spend, Impressions, Clicks, Conversions, Revenue and overall ROI of the marketing company? using card visuals
+1.What is the Total Ad Spend, Impressions, Clicks, Conversions, Revenue and overall ROI of the marketing company? using card visuals
 
-Show charts for Ad Spend by Channel, Clicks vs Impressions, Conversion Rate by Category, Revenue by Product, ROI by Product/Category
+2.Show charts for Ad Spend by Channel, Clicks vs Impressions, Conversion Rate by Category, Revenue by Product, ROI by Product/Category
 
-what is the monthly and yearly trends for spend, conversions, ROI, and clicks?
+3.what is the monthly and yearly trends for spend, conversions, ROI, and clicks?
 
-Add slicers for Campaign Date, Product Name, Product Category, and Marketing Channel.
+4.Add slicers for Campaign Date, Product Name, Product Category, and Marketing Channel.
 
-Create calculated fields for CTR, Conversion Rate, and ROI using DAX measures
+5.Create calculated fields for CTR, Conversion Rate, and ROI using DAX measures
 
