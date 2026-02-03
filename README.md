@@ -12,12 +12,12 @@ This is an interactive dashboard created using power bi to monitor campaign perf
 
 3.What is the monthly and yearly trends for spend, conversions, ROI, and clicks?
 
-4. What was the conversion rate according to the categories?
+4.What was the conversion rate according to the categories?
 
-5. what was the Return of Investment on each catergory?
+5.what was the Return of Investment on each catergory?
 
-6. What is the revenue generated on each product?
+6.What is the revenue generated on each product?
 
-7. What was the conversion rate of customers by categories?
+7.What was the conversion rate of customers by categories?
 
-8. Compare the Rate of those who viewed the ad and those who ended up clicking on it. (Clicks vs Impression) 
+8.Compare the Rate of those who viewed the ad and those who ended up clicking on it. (Clicks vs Impression) 
